@@ -193,3 +193,84 @@ color: rgb(255, 255, 255);
 margin-top: 50px;
 cursor: pointer;
 }
+
+
+/* best offer section style here */
+.best-offer-section-container{
+    width: 1584px;
+    height: 555.6px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:150px;
+}
+.best-offer-left-content{
+    width: 33%;
+
+
+}
+
+.best-offer-left-content h6{
+    text-align:left;
+    color: rgb(255, 0, 0);
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+margin-bottom:10px;
+
+}
+.best-offer-left-content h3{
+    color: rgb(7, 2, 17);
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+text-align: left;
+text-transform: capitalize;
+margin-bottom: 22px;
+    
+}
+.best-offer-left-content p{
+    color: rgba(7, 2, 17, 0.6);
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+}
+
+.best-offer-middle-content{
+    width: 33%;
+
+}
+.best-offer-middle-content img{
+    box-sizing: border-box;
+border: 15px solid rgb(255, 0, 0);
+border-radius: 50%;
+padding: 30px;
+}
+.best-offer-right-content{
+    width: 33%;
+}
+
+.best-offer-right-content h3{
+    color: rgb(255, 0, 0);
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+text-align: left;
+margin-top: 50px;
+}
+
+.best-offer-right-content p{
+    color: rgba(7, 2, 17, 0.6);
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+margin-top: 25px;
+}
+
+.best-offer-right-content img{
+    background: linear-gradient(180.00deg, rgb(248, 246, 251) 16.253%,rgb(239, 220, 251) 88.72%);
+    margin-top: 80px;
+}
