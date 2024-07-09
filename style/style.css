@@ -348,3 +348,46 @@ line-height: 91px;
     
 
 }
+
+/* best gift section style here */
+.best-gift-section-container{
+    height:1280px;
+    width: 1584px;
+    margin: 0 auto;
+    margin-top: 100px;
+    
+}
+
+.best-gift-text-content{
+    text-align: left;
+}
+.best-gift-text-content h6{
+    color: rgb(255, 0, 0);
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+}
+.best-gift-text-content h3{
+    color: rgb(7, 2, 17);
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+margin: 15px 0 15px 0;
+}
+.best-gift-text-content p{
+    color: rgba(7, 2, 17, 0.6);
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+margin-bottom: 15px;
+}
+
+.best-gift-imgages-content{
+    display: grid;
+    grid-template-columns:auto auto auto;
+    grid-gap: 30px;
+    margin-top: 40px;
+}
+.best-gift-imgages-content img{
+    width: 489px;
+}
