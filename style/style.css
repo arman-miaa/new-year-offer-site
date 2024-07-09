@@ -206,7 +206,7 @@ cursor: pointer;
     margin-top:150px;
 }
 .best-offer-left-content{
-    width: 33%;
+    width: 35%;
 
 
 }
@@ -239,7 +239,7 @@ text-align: left;
 }
 
 .best-offer-middle-content{
-    width: 33%;
+    width: 35%;
 
 }
 .best-offer-middle-content img{
@@ -247,9 +247,11 @@ text-align: left;
 border: 15px solid rgb(255, 0, 0);
 border-radius: 50%;
 padding: 30px;
+margin-left: 50px;
 }
 .best-offer-right-content{
-    width: 33%;
+    width: 30%;
+    margin-left: 30px;
 }
 
 .best-offer-right-content h3{
